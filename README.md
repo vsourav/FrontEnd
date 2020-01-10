@@ -1,2 +1,3 @@
 # JavaScript
-Basics + Advanced
+Basics + Advanced JS
+Some OOP concept in JS
